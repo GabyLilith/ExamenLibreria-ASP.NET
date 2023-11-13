@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\bin\Debug\net7.0\LibreriaExamen.deps.json
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\bin\Debug\net7.0\LibreriaExamen.runtimeconfig.json
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\bin\Debug\net7.0\LibreriaExamen.dll
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\bin\Debug\net7.0\LibreriaExamen.pdb
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\obj\Debug\net7.0\LibreriaExamen.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\obj\Debug\net7.0\LibreriaExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\obj\Debug\net7.0\LibreriaExamen.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\obj\Debug\net7.0\LibreriaExamen.AssemblyInfo.cs
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\obj\Debug\net7.0\LibreriaExamen.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\obj\Debug\net7.0\LibreriaExamen.dll
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\obj\Debug\net7.0\refint\LibreriaExamen.dll
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\obj\Debug\net7.0\LibreriaExamen.pdb
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\obj\Debug\net7.0\LibreriaExamen.genruntimeconfig.cache
+C:\Users\DELL\Documents\Aplicaciones Empresariales\LibreriaExamen\LibreriaExamen\obj\Debug\net7.0\ref\LibreriaExamen.dll
